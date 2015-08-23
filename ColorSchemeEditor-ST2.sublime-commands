@@ -1,0 +1,14 @@
+[
+	{
+		"caption": "Color Scheme Editor: Edit current color scheme",
+		"command": "edit_current_color_scheme"
+	},
+	{
+		"caption": "Color Scheme Editor: Goto previous matching scope",
+		"command": "edit_color_scheme_prev_scope"
+	},
+	{
+		"caption": "Color Scheme Editor: Goto next matching scope",
+		"command": "edit_color_scheme_next_scope"
+	}
+]

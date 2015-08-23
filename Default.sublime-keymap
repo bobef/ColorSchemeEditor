@@ -1,0 +1,7 @@
+[
+
+  { "keys": ["shift+f12"], "command": "edit_current_color_scheme"},
+  { "keys": ["ctrl+alt+left"], "command": "edit_color_scheme_prev_scope"},
+  { "keys": ["ctrl+alt+right"], "command": "edit_color_scheme_next_scope"}
+
+]
