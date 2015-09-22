@@ -5,13 +5,13 @@ ColorSchemeEditor
 Screenshots
 ===========
 ### Automatic scope display
-![Real-time scope display](https://raw.github.com/bobef/ColorSchemeEditor-ST2/master/screenshots/screen1.png)
+![Real-time scope display](https://raw.github.com/bobef/ColorSchemeEditor/master/screenshots/screen1.png)
 
 ### Quick color selection (thirdparty plugin)
-![Quick color selection (thirdparty plugin)](https://raw.github.com/bobef/ColorSchemeEditor-ST2/master/screenshots/screen2.png)
+![Quick color selection (thirdparty plugin)](https://raw.github.com/bobef/ColorSchemeEditor/master/screenshots/screen2.png)
 
 ### Real-time preview
-![Real-time preview](https://raw.github.com/bobef/ColorSchemeEditor-ST2/master/screenshots/screen3.png)
+![Real-time preview](https://raw.github.com/bobef/ColorSchemeEditor/master/screenshots/screen3.png)
 
 Usage
 =====
